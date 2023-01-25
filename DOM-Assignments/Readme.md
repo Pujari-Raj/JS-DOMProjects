@@ -1,4 +1,4 @@
-# Javascript DOM-Basic Projects
+## Javascript DOM-Basic Projects
 
 This repository contains the Javascript DOM Basic Projects which was given as a task in Ineuron FSJSBootCamp Course.
 (Go inside the folder for all the projects.)
